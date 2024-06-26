@@ -71,7 +71,7 @@ function HomePage() {
               </p>
             </div>
           </div>
-      <div className="text-white text-xl">Made by <a className="text-pink-600 hover:text-green-500" href="https://github.com/japkiratsingh">Japkirat Singh</a></div>
+      <div className="text-white text-xl">Made by <a className="text-pink-600 hover:text-green-500" href="https://github.com/Sachinjha21">Sachin Jha</a></div>
         </div>
       </div>
     </div>
